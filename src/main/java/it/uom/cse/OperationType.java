@@ -1,5 +1,9 @@
 package it.uom.cse;
 
+/*
+This is a comment to try out
+ */
+
 public enum OperationType {
 
     ADD("ADD"),
